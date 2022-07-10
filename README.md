@@ -1,3 +1,3 @@
 # twist-loader
 
-Learning SASS, and Advanced CSS Concepts
+Learning SASS, and some advanced CSS Concepts
